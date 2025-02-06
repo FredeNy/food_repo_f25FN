@@ -13,15 +13,8 @@ body {
 }
 
 header, footer {
-    color: var(--colorSecondary);
     padding: 0.5rem 1rem;
     text-align: center;
-}
-
-header {
-    h1 {
-        font-family: var(--fontTitle);
-    }
 }
 
 main {
@@ -47,6 +40,15 @@ nav {
 li {
     list-style: none;
 }
+}
+
+
+address {
+    font-style: normal;
+
+    #physical_address {
+        margin-bottom: 1rem;
+    }
 }
 
 a{
