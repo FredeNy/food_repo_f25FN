@@ -6,6 +6,11 @@
     --colorSecondary: darkgreen;
     --colorBgMain: #fdfdfd;
 
+
     --fontMain: 'Open Sans', Arial, sans-serif;
     --fontTitle: Dynapuff, serif;
+
+    --maxBodyWidth: 1024px;
+    --cardWidth: 250px;
+    --imgThumnnailDimension: 150px;
 }
