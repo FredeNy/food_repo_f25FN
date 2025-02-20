@@ -62,3 +62,6 @@ a{
     }
 }
 
+button {
+    cursor: pointer;
+}
